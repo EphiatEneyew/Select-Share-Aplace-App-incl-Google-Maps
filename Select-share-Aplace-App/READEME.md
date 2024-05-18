@@ -1,0 +1,2 @@
+Select-Share-Aplace-App-incl-Google-Map.
+using third party library in typescript.simple Website which use third party library to send HTTP request and also to render a map with the help of google maps
